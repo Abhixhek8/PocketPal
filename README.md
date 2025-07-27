@@ -57,8 +57,5 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Rive                    | Add Rive Animations        | 
 
 
-# 🖋 Author
- 
-### *Anil Raj* &nbsp;![Twitter Follow](https://img.shields.io/twitter/follow/Aniljmjr?style=social) 
 
  
