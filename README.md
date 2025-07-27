@@ -1,39 +1,30 @@
 # 💰 MegaPay – Flutter Payment App
 
-**MegaPay** is a secure, cross-platform mobile payment app built with Flutter and REST APIs. It allows users to register, load wallets, recharge services, and make payments via QR.
+**MegaPay** is a modern mobile payment app built with Flutter and REST APIs. It offers wallet services, recharges, and QR-based transactions.
 
----
-
-## 🚀 Features
+## 🔑 Key Features
 
 - User Registration & Login
-- Wallet Cash Load
-- Prepaid, DTH, FASTag Recharge
-- Auto-fetch Operator Info
+- Wallet Top-Up
+- Mobile, DTH, FASTag Recharge
 - QR Scan & Pay
-- Transaction History & Statements
+- Transaction History
 - Push Notifications
 
----
+## 🛠 Built With
 
-## 🛠 Tech Stack
+- Flutter & Dart
+- Firebase (Auth, Messaging, Crashlytics)
+- REST APIs
+- Provider (State Management)
 
-- **Flutter**
-- **Firebase** (Auth, Messaging, Crashlytics)
-- **REST APIs**
-- **Provider** for state management
+## 🔌 Core Plugins
 
----
+- firebase_core, firebase_messaging
+- flutter_secure_storage, http
+- qr_code_scanner, permission_handler
 
-## 🔌 Notable Plugins
-
-- `firebase_core`, `firebase_messaging`
-- `flutter_secure_storage`, `http`, `qr_code_scanner`
-- `flutter_local_notifications`, `geolocator`
-
----
-
-## 📦 Getting Started
+## 🚀 Getting Started
 
 ```bash
 flutter pub get
